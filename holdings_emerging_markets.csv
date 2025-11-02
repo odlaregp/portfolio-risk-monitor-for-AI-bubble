@@ -1,0 +1,222 @@
+ISIN code;Name;Asset class;Currency;Weight;Sector;Country
+US67066G1040;NVIDIA CORP;EQUITY;USD; 9,16%;Information Technology;United States
+US0378331005;APPLE INC;EQUITY;USD; 8,71%;Information Technology;United States
+US0231351067;AMAZON.COM INC;EQUITY;USD; 7,28%;Consumer Discretionary;United States
+US5949181045;MICROSOFT CORP;EQUITY;USD; 5,26%;Information Technology;United States
+US88160R1014;TESLA INC;EQUITY;USD; 4,02%;Consumer Discretionary;United States
+US11135F1012;BROADCOM INC;EQUITY;USD; 3,35%;Information Technology;United States
+US02079K1079;ALPHABET INC CL C;EQUITY;USD; 2,57%;Communication Services;United States
+US02079K3059;ALPHABET INC CL A;EQUITY;USD; 2,54%;Communication Services;United States
+US0846707026;BERKSHIRE HATHAWAY INC-CL B;EQUITY;USD; 2,22%;Financials;United States
+FR0000120271;TOTALENERGIES SE PARIS;EQUITY;EUR; 2,13%;Energy;France
+US7475251036;QUALCOMM INC;EQUITY;USD; 1,99%;Information Technology;United States
+US30303M1027;META PLATFORMS INC-CLASS A;EQUITY;USD; 1,80%;Communication Services;United States
+US94106L1098;WASTE MANAGEMENT INC;EQUITY;USD; 1,78%;Industrials;United States
+FR0000130809;SOCIETE GENERALE;EQUITY;EUR; 1,76%;Financials;France
+US3696043013;GENERAL ELECTRIC;EQUITY;USD; 1,68%;Industrials;United States
+US5128073062;LAM RESEARCH CORP;EQUITY;USD; 1,59%;Information Technology;United States
+US1255231003;THE CIGNA GROUP;EQUITY;USD; 1,55%;Health Care;United States
+US36828A1016;GE VERNOVA INC;EQUITY;USD; 1,45%;Industrials;United States
+US12572Q1058;CME GROUP INC;EQUITY;USD; 1,37%;Financials;United States
+US0970231058;BOEING CO/THE;EQUITY;USD; 1,32%;Industrials;United States
+FR0000120644;DANONE;EQUITY;EUR; 1,27%;Consumer Staples;France
+US09290D1019;BLACKROCK INC;EQUITY;USD; 1,26%;Financials;United States
+US58933Y1055;MERCK & CO. INC.;EQUITY;USD; 1,25%;Health Care;United States
+FR0000133308;ORANGE;EQUITY;EUR; 1,17%;Communication Services;France
+US0605051046;BANK OF AMERICA CORP;EQUITY;USD; 1,12%;Financials;United States
+US03831W1080;APPLOVIN CORP-CLASS A;EQUITY;USD; 1,10%;Information Technology;United States
+US46625H1005;JPMORGAN CHASE & CO;EQUITY;USD; 1,09%;Financials;United States
+US2788651006;ECOLAB INC;EQUITY;USD; 0,90%;Materials;United States
+US0527691069;AUTODESK INC;EQUITY;USD; 0,85%;Information Technology;United States
+US00287Y1091;ABBVIE INC;EQUITY;USD; 0,78%;Health Care;United States
+US0494681010;ATLASSIAN CORP-CL A;EQUITY;USD; 0,71%;Information Technology;United States
+US1491231015;CATERPILLAR INC;EQUITY;USD; 0,68%;Industrials;United States
+US5801351017;MCDONALD S CORP  COM NPV;EQUITY;USD; 0,66%;Consumer Discretionary;United States
+US1941621039;COLGATE-PALMOLIVE CO;EQUITY;USD; 0,65%;Consumer Staples;United States
+FR0000120628;AXA SA;EQUITY;EUR; 0,65%;Financials;France
+US0758871091;BECTON DICKINSON;EQUITY;USD; 0,64%;Health Care;United States
+US6311031081;NASDAQ INC;EQUITY;USD; 0,64%;Financials;United States
+IE000S9YS762;LINDE PLC;EQUITY;USD; 0,61%;Materials;United States
+FR0000073272;SAFRAN SA;EQUITY;EUR; 0,58%;Industrials;France
+FR0000121667;ESSILORLUXOTTICA;EQUITY;EUR; 0,57%;Health Care;France
+US88579Y1010;3M CO;EQUITY;USD; 0,56%;Industrials;United States
+US1101221083;BRISTOL-MYERS SQUIBB CO;EQUITY;USD; 0,54%;Health Care;United States
+US74340W1036;PROLOGIS INC;EQUITY;USD; 0,54%;Real Estate;United States
+US00724F1012;ADOBE INC;EQUITY;USD; 0,53%;Information Technology;United States
+US0268747849;AMERICAN INTER.GROUP;EQUITY;USD; 0,53%;Financials;United States
+US5717481023;MARSH & MCLENNAN COS;EQUITY;USD; 0,52%;Financials;United States
+US1924461023;COGNIZANT TECH SOLUTION A;EQUITY;USD; 0,46%;Information Technology;United States
+US37045V1008;GENERAL MOTORS CO;EQUITY;USD; 0,45%;Consumer Discretionary;United States
+US4370761029;HOME DEPOT INC;EQUITY;USD; 0,44%;Consumer Discretionary;United States
+US46187W1071;INVITATION HOMES;EQUITY;USD; 0,42%;Real Estate;United States
+US46120E6023;INTUITIVE SURGICAL INC;EQUITY;USD; 0,41%;Health Care;United States
+FR0013215407;ENGIE PRIME DE FIDELITE;EQUITY;EUR; 0,39%;Utilities;France
+FR0011149590;L OREAL PRIME FIDELITE;EQUITY;EUR; 0,38%;Consumer Staples;France
+US0090661010;AIRBNB INC-CLASS A;EQUITY;USD; 0,38%;Consumer Discretionary;United States
+US8936411003;TRANSDIGM GROUP INC;EQUITY;USD; 0,37%;Industrials;United States
+US04626A1034;ASTERA LABS INC;EQUITY;USD; 0,36%;Information Technology;United States
+US2538681030;DIGITAL REALTY TRUST;EQUITY;USD; 0,36%;Real Estate;United States
+US8085131055;SCHWAB (CHARLES) CORP;EQUITY;USD; 0,35%;Financials;United States
+US0367521038;ELEVANCE HEALTH INC;EQUITY;USD; 0,34%;Health Care;United States
+CH0044328745;CHUBB LTD;EQUITY;USD; 0,34%;Financials;United States
+US12504L1098;CBRE GROUP INC;EQUITY;USD; 0,32%;Real Estate;United States
+US9311421039;WALMART INC;EQUITY;USD; 0,32%;Consumer Staples;United States
+CH0114405324;GARMIN LTD;EQUITY;USD; 0,30%;Consumer Discretionary;United States
+US12503M1080;CBOE GLOBAL MARKETS INC;EQUITY;USD; 0,28%;Financials;United States
+US5763231090;MASTEC INC;EQUITY;USD; 0,28%;Industrials;United States
+US0640581007;BANK OF NEW YORK MELLON CORP;EQUITY;USD; 0,27%;Financials;United States
+FR001400AJ45;MICHELIN (CGDE);EQUITY;EUR; 0,27%;Consumer Discretionary;France
+US0326541051;ANALOG DEVICES INC;EQUITY;USD; 0,26%;Information Technology;United States
+US4415931009;HOULIHAN LOKEY INC;EQUITY;USD; 0,26%;Financials;United States
+US8887871080;TOAST INC-CLASS A;EQUITY;USD; 0,26%;Financials;United States
+US8725901040;T-MOBILE US INC;EQUITY;USD; 0,26%;Communication Services;United States
+US22160N1090;COSTAR GROUP INC;EQUITY;USD; 0,25%;Real Estate;United States
+US2310211063;CUMMINS INC;EQUITY;USD; 0,24%;Industrials;United States
+US5312297220;LIBERTY MEDIA CORP-LIBERTY-C;EQUITY;USD; 0,23%;Communication Services;United States
+US37940X1028;GLOBAL PAYMENTS INC;EQUITY;USD; 0,23%;Financials;United States
+US8288061091;SIMON PROPERTY GROUP INC;EQUITY;USD; 0,23%;Real Estate;United States
+US2521311074;DEXCOM INC;EQUITY;USD; 0,22%;Health Care;United States
+;;CASH;EUR; 0,22%; ; 
+US5719032022;MARRIOTT INTERNATIONAL-CL A;EQUITY;USD; 0,20%;Consumer Discretionary;United States
+US4824801009;KLA CORP;EQUITY;USD; 0,19%;Information Technology;United States
+US0533321024;AUTOZONE INC;EQUITY;USD; 0,19%;Consumer Discretionary;United States
+US81762P1021;SERVICENOW INC;EQUITY;USD; 0,18%;Information Technology;United States
+US0079031078;ADVANCED MICRO DEVICES;EQUITY;USD; 0,18%;Information Technology;United States
+FR0000053951;AIR LIQUIDE PRIME FIDELITE;EQUITY;EUR; 0,17%;Materials;France
+US4592001014;INTL BUSINESS MACHINES CORP;EQUITY;USD; 0,17%;Information Technology;United States
+US30225T1025;EXTRA SPACE STORAGE;EQUITY;USD; 0,16%;Real Estate;United States
+US6153691059;MOODY S CORP;EQUITY;USD; 0,16%;Financials;United States
+US4165151048;HARTFORD INSURANCE GROUP INC;EQUITY;USD; 0,15%;Financials;United States
+US43300A2033;HILTON WORLDWIDE HOLDINGS IN;EQUITY;USD; 0,15%;Consumer Discretionary;United States
+US03990B1017;ARES MANAGEMENT CORP - A;EQUITY;USD; 0,14%;Financials;United States
+US3364331070;FIRST SOLAR INC;EQUITY;USD; 0,13%;Information Technology;United States
+US6098391054;MONOLITHIC POWER SYSTEMS INC;EQUITY;USD; 0,13%;Information Technology;United States
+US1729081059;CINTAS CORP;EQUITY;USD; 0,13%;Industrials;United States
+US26441C2044;DUKE ENERGY;EQUITY;USD; 0,11%;Utilities;United States
+US5486611073;LOWE S COS INC COM US 0.50;EQUITY;USD; 0,09%;Consumer Discretionary;United States
+US91324P1021;UNITEDHEALTH GROUP INC;EQUITY;USD; 0,09%;Health Care;United States
+US89832Q1094;TRUIST FINANCIAL CORP;EQUITY;USD; 0,09%;Financials;United States
+US1011211018;BXP INC;EQUITY;USD; 0,08%;Real Estate;United States
+US4461501045;HUNTINGTON BANCSHARES INC;EQUITY;USD; 0,08%;Financials;United States
+US1696561059;CHIPOTLE MEXICAN GRILL-CL A;EQUITY;USD; 0,08%;Consumer Discretionary;United States
+US4581401001;INTEL CORP;EQUITY;USD; 0,08%;Information Technology;United States
+US1667641005;CHEVRON CORP;EQUITY;USD; 0,08%;Energy;United States
+US2172041061;COPART INC;EQUITY;USD; 0,07%;Industrials;United States
+BMG0750C1082;AXALTA COATING SYSTEMS LTD;EQUITY;USD; 0,07%;Materials;United States
+CA82509L1076;SHOPIFY INC USD;EQUITY;USD; 0,07%;Information Technology;Canada
+US73278L1052;POOL CORP;EQUITY;USD; 0,07%;Consumer Discretionary;United States
+US7739031091;ROCKWELL AUTOMATION INC;EQUITY;USD; 0,07%;Industrials;United States
+US2786421030;EBAY INC;EQUITY;USD; 0,07%;Consumer Discretionary;United States
+US5303073051;LIBERTY BROADBAND C;EQUITY;USD; 0,07%;Communication Services;United States
+US4435106079;HUBBELL INC;EQUITY;USD; 0,06%;Industrials;United States
+US9026531049;UDR INC;EQUITY;USD; 0,06%;Real Estate;United States
+US9621661043;WEYERHAEUSER CO;EQUITY;USD; 0,05%;Real Estate;United States
+US8425871071;SOUTHERN CO/THE;EQUITY;USD; 0,05%;Utilities;United States
+BMG3223R1088;EVEREST GROUP LTD;EQUITY;USD; 0,05%;Financials;United States
+US4781601046;JOHNSON & JOHNSON;EQUITY;USD; 0,05%;Health Care;United States
+US1264081035;CSX CORP;EQUITY;USD; 0,05%;Industrials;United States
+US65339F1012;NEXTERA ENERGY INC;EQUITY;USD; 0,05%;Utilities;United States
+US9022521051;TYLER TECHNOLOGIES INC;EQUITY;USD; 0,05%;Information Technology;United States
+US38141G1040;GOLDMAN SACHS GROUP INC;EQUITY;USD; 0,05%;Financials;United States
+US6687711084;GEN DIGITAL INC;EQUITY;USD; 0,04%;Information Technology;United States
+US49271V1008;KEURIG DR PEPPER INC;EQUITY;USD; 0,04%;Consumer Staples;United States
+US69370C1009;PTC INC;EQUITY;USD; 0,04%;Information Technology;United States
+US31620R3030;FIDELITY NATIONAL FINANCIAL;EQUITY;USD; 0,04%;Financials;United States
+US25746U1097;DOMINION ENERGY INC;EQUITY;USD; 0,03%;Utilities;United States
+US70450Y1038;PAYPAL HOLDINGS INC;EQUITY;USD; 0,03%;Financials;United States
+US29444U7000;EQUINIX INC;EQUITY;USD; 0,03%;Real Estate;United States
+US6833441057;ONTO INNOVATION INC;EQUITY;USD; 0,03%;Information Technology;United States
+US9831341071;WYNN RESORTS LTD;EQUITY;USD; 0,03%;Consumer Discretionary;United States
+US03027X1000;AMERICAN TOWER CORP CL A;EQUITY;USD; 0,03%;Real Estate;United States
+US09857L1089;BOOKING HOLDINGS INC;EQUITY;USD; 0,03%;Consumer Discretionary;United States
+US18915M1071;CLOUDFLARE INC - CLASS A;EQUITY;USD; 0,03%;Information Technology;United States
+US45687V1061;INGERSOLL-RAND INC;EQUITY;USD; 0,02%;Industrials;United States
+US37959E1029;GLOBE LIFE INC;EQUITY;USD; 0,02%;Financials;United States
+US2944291051;EQUIFAX INC  COM USD2.50;EQUITY;USD; 0,02%;Industrials;United States
+US40434L1052;HP INC;EQUITY;USD; 0,02%;Information Technology;United States
+US26210C1045;DROPBOX INC-CLASS A;EQUITY;USD; 0,02%;Information Technology;United States
+US0495601058;ATMOS ENERGY CORP;EQUITY;USD; 0,02%;Utilities;United States
+US3020811044;EXLSERVICE HOLDINGS INC;EQUITY;USD; 0,02%;Industrials;United States
+US8447411088;SOUTHWEST AIRLINES;EQUITY;USD; 0,02%;Industrials;United States
+US7611521078;RESMED INC;EQUITY;USD; 0,02%;Health Care;United States
+US74251V1026;PRINCIPAL FINANCIAL GROUP;EQUITY;USD; 0,02%;Financials;United States
+US2605571031;DOW INC;EQUITY;USD; 0,02%;Materials;United States
+US15135B1017;CENTENE CORP;EQUITY;USD; 0,02%;Health Care;United States
+US34959J1088;FORTIVE CORP;EQUITY;USD; 0,02%;Industrials;United States
+US92939U1060;WEC ENERGY GROUP INC;EQUITY;USD; 0,02%;Utilities;United States
+US8522341036;BLOCK INC;EQUITY;USD; 0,01%;Financials;United States
+US2600031080;DOVER CORP;EQUITY;USD; 0,01%;Industrials;United States
+US4435731009;HUBSPOT INC;EQUITY;USD; 0,01%;Information Technology;United States
+US3167731005;FIFTH THIRD BANCORP;EQUITY;USD; 0,01%;Financials;United States
+US6951561090;PACKAGING CORP OF AMERICA;EQUITY;USD; 0,01%;Materials;United States
+FR0000120404;ACCOR SA;EQUITY;EUR; 0,01%;Consumer Discretionary;France
+US9418481035;WATERS CORP;EQUITY;USD; 0,01%;Health Care;United States
+US15677J1088;DAYFORCE INC;EQUITY;USD; 0,01%;Industrials;United States
+US9297401088;WABTEC CORP;EQUITY;USD; 0,01%;Industrials;United States
+US46266C1053;IQVIA HOLDINGS INC;EQUITY;USD; 0,01%;Health Care;United States
+US23331A1097;DR HORTON INC;EQUITY;USD; 0,01%;Consumer Discretionary;United States
+US5018892084;LKQ CORP;EQUITY;USD; 0,01%;Consumer Discretionary;United States
+US5007541064;KRAFT HEINZ CO/THE;EQUITY;USD; 0,01%;Consumer Staples;United States
+US9256521090;VICI PROPERTIES INC;EQUITY;USD; 0,01%;Real Estate;United States
+US8923561067;TRACTOR SUPPLY;EQUITY;USD; 0,01%;Consumer Discretionary;United States
+US65249B1098;NEWS CORP - CLASS A;EQUITY;USD; 0,01%;Communication Services;United States
+US4606901001;INTERPUBLIC GROUP OF COS INC;EQUITY;USD; 0,01%;Communication Services;United States
+US12514G1085;CDW CORP/DE;EQUITY;USD; 0,01%;Information Technology;United States
+BMG0450A1053;ARCH CAPITAL GROUP LTD;EQUITY;USD; 0,01%;Financials;United States
+US78410G1040;SBA COMMUNICATIONS CORP;EQUITY;USD; 0,01%;Real Estate;United States
+US4404521001;HORMEL FOODS CORP;EQUITY;USD; 0,01%;Consumer Staples;United States
+US1431301027;CARMAX INC;EQUITY;USD; 0,01%;Consumer Discretionary;United States
+US31620M1062;FIDELITY NATIONAL INFORMATION;EQUITY;USD; 0,01%;Financials;United States
+US57667L1070;MATCH GROUP INC;EQUITY;USD; 0,01%;Communication Services;United States
+US70432V1026;PAYCOM SOFTWARE INC;EQUITY;USD; 0,01%;Industrials;United States
+US7588491032;REGENCY CENTERS CORP;EQUITY;USD; 0,01%;Real Estate;United States
+US23918K1088;DAVITA INC;EQUITY;USD; 0,01%;Health Care;United States
+US1344291091;THE CAMPBELL S COMPANY;EQUITY;USD; 0,01%;Consumer Staples;United States
+US74460D1090;PUBLIC STORAGE;EQUITY;USD; 0,01%;Real Estate;United States
+US0536111091;AVERY DENNISON CORP;EQUITY;USD; 0,01%;Materials;United States
+US29476L1070;EQUITY RESIDENTIAL PROPERTIES;EQUITY;USD; 0,01%;Real Estate;United States
+US3687361044;GENERAC HOLDINGS;EQUITY;USD; 0,00%;Industrials;United States
+US3377381088;FISERV INC;EQUITY;USD; 0,00%;Financials;United States
+US0534841012;AVALONBAY COMMUNITIES INC;EQUITY;USD; 0,00%;Real Estate;United States
+US65249B2088;NEWS CORP - CLASS B;EQUITY;USD; 0,00%;Communication Services;United States
+US36467J1088;GAMING AND LEISURE PROPERTIE;EQUITY;USD; 0,00%;Real Estate;United States
+US1598641074;CHARLES RIV LAB INT;EQUITY;USD; 0,00%;Health Care;United States
+US6556631025;NORDSON CORP;EQUITY;USD; 0,00%;Industrials;United States
+US11133T1034;BROADRIDGE FINANCIAL SOL;EQUITY;USD; 0,00%;Industrials;United States
+US8725401090;TJX COMPANIES INC;EQUITY;USD; 0,00%;Consumer Discretionary;United States
+FR001400U6U4;ENGIE PRIME DE FIDELITE 2027;EQUITY;EUR; 0,00%;Utilities;France
+FR001400UH43;L OREAL PRIME DE FIDELITE 2027;EQUITY;EUR; 0,00%;Consumer Staples;France
+US7599161095;REPLIGEN CORP;EQUITY;USD; 0,00%;Health Care;United States
+FR001400T5U9;AIR LIQUIDE PRIME DE FIDELITE 2027;EQUITY;EUR; 0,00%;Materials;France
+US83304A1060;SNAP INC - A;EQUITY;USD; 0,00%;Communication Services;United States
+JE00BTDN8H13;APTIV PLC;EQUITY;USD; 0,00%;Consumer Discretionary;United States
+US05352A1007;AVANTOR INC;EQUITY;USD; 0,00%;Health Care;United States
+;;;;;;
+;;;;;;
+Source: Amundi Asset Management;;;;;;
+;;;;;;
+"Promotional and non-contractual information should not be regarded as an investment advice or investment recommendation, a solicitation of an investment an offer or a purchase.
+Before any subscriptions, for further details of the risks applicable to the Fund, and on the Information (as defined below), the potential investors must read the offering documents of the Funds approved by the Autorité des Marchés Financiers (for French FCPs), by the Commission de Surveillance du Secteur Financier (“CSSF”) for the sub-funds of the Luxembourg Sicav Amundi Index Solutions (the “SICAV”) or by the Central Bank of Ireland for the sub-funds of the Irish ICAV Amundi ETF ICAV (all together the “Funds”), including the KID or the KIID for UK investors, available on amundi.com /amundietf.com or upon request to the management company headquarters.
+Investment in a fund carries a substantial degree of risk (i.e. risks are detailed in the KID or the KIID for UK investors, and prospectus).
+Fund’s past performance cannot be regarded as a reliable indicator for future results and are not offering any guaranteed performances.
+The exactness, exhaustiveness or relevance of the information, the prevision and analysis provided is not guaranteed. It is based on sources considered as reliable and may change without prior notice. It is inevitably partial, provided based on market data stated at a particular moment and is subject to change.
+This material is not intended for citizens or residents of the United States of America or to any “U.S. Person”, as this term is defined in SEC Regulation S under the U.S. Securities Act of 1933. The US person definition is indicated in the legal mentions section on amundi.com or amundietf.com, and in the prospectus of the Funds.
+The information displayed above has been obtained from the Fund’s inventory account but does not represent all of the data from the inventory account. The inventory account means the accounting records detailing the Fund’s assets.
+The date of calculation of the Information is specified above the table.
+The above information is based, inter alia, on market data at a given moment, and thus can vary from time to time. 
+The above information is published with a delay of at least three trading days compared to real-time market data. The publication of the information is therefore subject to a time lag; as such, we request that you consult the dates on which this Information is updated within the sections shown above.";;;;;;
+"Synthetic/Indirect replication :
+The Fund is managed, using a synthetic/indirect replication approach, by investing into financial derivatives instruments, delivering the performance of the Index in exchange of the performance of the assets (which may not necessarily include the components of the Index whose performance it is seeking to replicate).
+
+Physical/Direct replication :
+- For Physical Replication in French Funds only: the Fund is managed using a physical replication approach. It consists of investing in the financial securities in the Index in proportions that equate as closely as possible to those of the Index.
+- For Direct Replication in fixed income Funds in AIS only: the Fund is managed using a Direct Replication approach, mainly by making direct investments in bonds representing the Index constituents in a proportion extremely close to their proportion in the index.
+- For Direct Replication in equity Funds in AIS only: the Fund is managed using a Direct Replication approach, mainly by making direct investments in securities and/or other eligible assets representing the Index constituents in a proportion extremely close to their proportion in the index.
+- For Direct sampling-replication in AIS’ Funds only: the Fund is managed using a Direct Replication approach, mainly by making direct investments in securities and/or other eligible assets representing the Index constituents. It is not expected that the Fund will hold each and every underlying component of the Index at all times or hold them in the same proportion as their weightings in the Index. The Fund may also hold some securities which are not underlying components of the Index.";;;;;;
+"Data contained in this document have not been validated by the external auditor of the Fund.
+This document was not reviewed, stamped or approved by any Financial Authority.
+Reproduction prohibited without the written consent of Amundi Asset Management SAS.
+Amundi ETF, Indexing & Smart Beta designates the ETF, Indexing & Smart Beta Business of Amundi Asset Management.
+Amundi Asset Management, with share capital of €1 143 615 555 is an investment manager regulated by the French Autorité des Marchés Financiers under no. GP 04000036, registered office: 91-93 boulevard Pasteur - 75015 PARIS - France 437 574 452 RCS Paris is the portfolio management company of the Fund.
+“Amundi Index Solutions”, a Luxembourg SICAV, RCS B206810, located 5, allée Scheffer, L-2520 Luxembourg. The sub-funds were approved for public distribution in Luxembourg by the Commission de Surveillance du Secteur Financier of Luxembourg (CSSF).
+“Amundi ETF ICAV”, an Irish ICAV, located 1 George’s Quay Plaza, George’s Quay, Dublin 2, D02 V002, Ireland. The sub-funds were approved for public distribution in Ireland by the Central Bank of Ireland (CBI).";;;;;;
